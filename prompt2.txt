@@ -35,35 +35,37 @@ step 2 - Write a numbered list of the challenges found in Lab Organization, name
 step 3 - Think what's the next challenge of the list you need to craft. Write that challenge in "current challenge:".
 step 4 - Write the title for the "current challenge". Enclose all your work for this step within "challenge title".
 step 5 - Write the challenge introduction. 1-3 paragraphs introducing the challenge. Maintain a conversational tone and aim for a word count between 50 and 80 words. Present a real-world problem that an IT professional or software developer could encounter in their daily tasks. Don't preface this with Introduction. Enclose all your work for this step within "challenge introduction".
-step 6 - Think how many tasks you need to break down the challenge. Write these tasks in a numbered list named "task list".
-step 7 - Think what's the next task of the task list you need to craft. Write that task in "current task:".
+step 6 - Pick the challenge description and think how many tasks you need to break down the challenge. Write these tasks in a numbered list named "task list".
+step 7 - Think what's the next task of the "task list" you need to craft. Write that task in "current task:".
 step 8 - Write a short title for the task. Short title summarizing the learner's task. Don't preface this with "Task:". Enclose all your work for this step within "task title".
 step 9 - Write the task introduction. One paragraph introducing the task, with a word count between 25 and 50 words. Keep the tone conversational. This should never be bullet points. The task should directly reflect the learning objectives and the resources outlined in the document Enclose all your work for this step within "task introduction".
-step 10 - Write a numbered list of subtasks for the task. Follow this guidelines to write each subtask:
+step 10 - Think of a list of subtasks for the task. Strive for at least 10 subtask per task. Save the list in a numbered list named "subtasks list":
+step 11 - Think what's the next task of the "subtasks list". Start writing that subtask following the below guidelines:
             - Write the subtask in the imperative mood and in the second person. 
-            - Strive for at least 10 subtask per task. 
             - Always be specific in each subtask and always over-explain rather than under-explain.
             - Use the most recent versions of software and tools, as specified in the Word document.
             - Do not incorporate additional resources, assessments, or special accommodations.
             - Occasionally include general mistakes a learner might make and explain how to correct them.
-            - Do not format any text bold or code format in-line code. Keep the code snippets though.
-            - Think if the subtask is key to the challenge.
-            - If the subtask is key to the challenge Always provide an explanation after the step description. Don't preface that explanation with anything; just make it another paragraph under the subtask. The explanation should always be a paragraph; never bullets.
-            - Think if you are introducing a new concept.
-            - If you are introducing a new concept, always show the learner what the scenario looks like before and after the new concept has taken place.
             - When telling the learner to perform an action, always show the actions to take to do so.
-            - When telling the learner to insert a piece of code into an existing codebase, always show the first couple of lines before and after the code to insert to show context.
-            - Always place code blocks under the numbered lists of the subtask.
-            - Enclose all your work for this step within "subtasks".
-step 11 - Think if the "current task" is the last task of the "task list", explain.
-step 12 - If the "current task" is the last task of the "task list" go to step 14. If not, go to step 13.
-step 13 - Pick the next task of the task list. Write that subtask in "current subtask:".
-step 14 - Write the conclusion. Concluding paragraph summarizing what the learner has accomplished, with a 1-2 sentence teaser for the next challenge. Enclose all your work for this step within triple quotes (""").
-step 15 - Concatenate the "challenge title", "challenge introduction", "task title", "task introduction", "subtasks" and "conclusion" in that order.
-step 16 - Review and Approval:
-- Submit a summary of each challenge for my initial approval; one challenge at a time.
-- I will be the sole reviewer and will provide feedback for any revisions.
-- If I approve the challenge, write the "Word doc summary", next write the steps outlined in this instructions, next write the "challenge list" and go to step 3.
+step 12 - Think if the subtask is key to the challenge, explain your answer.
+step 13 - If the subtask is key to the challenge provide an explanation to the learner. Don't preface that explanation with anything; just make it another paragraph. The explanation should always be a paragraph; never bullets.
+step 14 - Think if you need to introduce a new concept, explain your answer.
+step 15 - If you are introducing a new concept, provide an explanation of what the scenario looks like before and after the new concept has taken place.
+step 16 - Think if you need to provide a code snippet, explain your answer.
+step 17 - If you need to provide a code snippet follow the below guidelines:
+            - Provide the code snippet in a code block.
+            - Do not format any text bold or code format in-line code. Keep the code snippets though.
+            - If you are telling the learner to insert a piece of code into an existing codebase, always show the first couple of lines before and after the code to insert to show context.
+step 18 - Concatenate your work of step 11. step 13 if apply, step 15 if apply, step 17 if apply, in that order. Always place code blocks under the numbered lists of the subtask. Save the result in "subtask n:" where n is the subtask number from the list.
+step 19 - Think if the subtask if the last subtask of the "subtasks list", explain.
+step 20 - If the subtask is the last subtask of the "subtasks list" return to step 11 otherwise go to step 21.
+step 21 - Think if the "current task" is the last task of the "task list", explain.
+step 22 - If the "current task" is the last task of the "task list" go to step 14. If not, go to step 13.
+step 23 - Pick the next task of the task list. Write that subtask in "current subtask:".
+step 24 - Write the conclusion. Concluding paragraph summarizing what the learner has accomplished, with a 1-2 sentence teaser for the next challenge. Enclose all your work for this step within triple quotes (""").
+step 25 - Concatenate the content from "challenge title", "challenge introduction", "task title", "task introduction", "subtasks" and "conclusion" in that order.
+step 26 - Submit a summary of each challenge for my initial approval; one challenge at a time.
+step 27 - If I approve the challenge, write the "Word doc summary", next write all the steps outlined in this instructions, next write the "challenge list" and go to step 3.
 
 Do not include steps, tasks, or elements that are not explicitly mentioned in the provided guidelines or document.
 
