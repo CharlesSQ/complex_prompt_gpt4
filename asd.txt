@@ -1,0 +1,12 @@
+subtasks_list = [
+    "Start by opening your preferred text editor, preferably VSCode.",
+    "Create a new PowerShell script file named 'Optimize-LocalSystem.ps1'.",
+    "At the beginning of the file, add a comment block to describe the purpose of the function.",
+    "Below the comment block, start defining the function using the 'function' keyword followed by the name 'Optimize-LocalSystem'.",
+    "Inside the function, begin with the 'param()' block to define any parameters that the function will accept.",
+    "Think about the multiple optimization tasks this function will handle and define appropriate parameters for each.",
+    "For each parameter, provide a default value if applicable.",
+    "Ensure that each parameter is well-documented with inline comments.",
+    "After defining the parameters, draft the initial logic for the function. This could be placeholder logic that you'll expand upon later.",
+    "Finally, close the function with a closing curly brace and save the file."
+]
